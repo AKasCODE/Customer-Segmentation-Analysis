@@ -8,10 +8,12 @@ This project performs customer segmentation using **RFM (Recency, Frequency, Mon
 
 ## Dataset
 
-- **Dataset:** Online Retail Dataset
-- **Records:** 541,909 transactions
-- **Customers after cleaning:** 4,338
-- **Features Used:** Invoice Date, Invoice Number, Quantity, Unit Price, Customer ID
+The project uses the **Online Retail Dataset** from the UCI Machine Learning Repository.
+
+Due to GitHub file size limits, the dataset is not included in this repository.
+
+Download the dataset from:
+https://archive.ics.uci.edu/ml/datasets/Online+Retail
 
 ---
 
